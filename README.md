@@ -1,3 +1,8 @@
+Automatic
+project klasoru icerisindeki Calistir.sh scriptini calistir asagidakiler otomatik gerceklessin
+
+
+Manual
 project dosyasinin icerisinde cmd calistirdiktan sonra
 
 npm install
